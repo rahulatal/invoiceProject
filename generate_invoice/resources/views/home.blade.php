@@ -94,7 +94,7 @@
                 <p><b>Pan No.:</b> ABCDEFGH123</p>
                 <p><b>GST Registration No.:</b> 21jhsg64914g</p>
                 <p><b>Order Number:</b> 171-54-5468-54</p>
-                <p><b>Order Date:</b> 23-07-2022</p>
+                <p><b>Order Date:</b> 23-08-2022</p>
             </div>
         </div>
         <div id="invoicetable">
