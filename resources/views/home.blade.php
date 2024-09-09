@@ -88,7 +88,7 @@
             <div id="left">
                 <p>
                   <b>Sold By:</b><br>invitecrafter.com,<br> 204, Krishna Business Center, <br> Medanta Hospital Road,
-                    Indore, MADHYA PRADESH, 452010
+                    Indore, MADHYA PRADESH, 456010
                     <br>IN
                 </p>
                 <p><b>Pan No.:</b> ABCDEFGH123</p>
