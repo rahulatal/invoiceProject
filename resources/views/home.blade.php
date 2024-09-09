@@ -77,7 +77,7 @@
             <p style="text-align:right;"><b>Tax Invoice Of Supply/Cash Memo</b><br><span class="original_for_recipient">(Original For Recipient)</span></p>
             <div id="right">
                 <p class="qr_code_container"><b class="qr_code">IRN/QR Code:</b><img src="../dummy_website_barcode.jpeg" width="150px" height="150px"></p>
-                <p><b>Billing Address:</b><br>Rahul Singh Atal, <br>Mobile No.: 8770968942<br></p>
+                <p><b>Billing Address:</b><br>Rahul Singh Atal, <br>Mobile No.: 8962850509<br></p>
                 <p><b>GST Registration No.:</b> 22jhsg64914g</p>
                 <p><b>Invoice Number:</b> IN-4452</p>
                 <p><b>Invoice details:</b> OR-1764489316185464</p>
